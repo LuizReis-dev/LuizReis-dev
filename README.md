@@ -2,6 +2,7 @@
 <h3 align="center">Desenvolvedor Backend</h3>
 
 - 🔭 Atualmente atuo como **Programador PHP**
+- 📕 Atualmente estudo **Java e o framework Spring**
 
 <h3 align="left">Conecte comigo:</h3>
 <p align="left">
