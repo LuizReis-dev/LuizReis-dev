@@ -1,9 +1,6 @@
 <h1 align="center">Olá sou o Luiz</h1>
 <h3 align="center">Desenvolvedor Backend</h3>
 
-- 🔭 Atualmente atuo como **Programador PHP**
-- 📕 Atualmente estudo **Java e o framework Spring**
-
 <h3 align="left">Conecte comigo:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/luiz-reis-46a44b232/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/luiz-reis-46a44b232/" height="30" width="40" /></a>
