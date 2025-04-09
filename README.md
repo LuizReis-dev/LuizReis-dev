@@ -6,7 +6,9 @@ Olá! Sou desenvolvedor backend com foco em Java e Spring Framework. Tenho exper
 <h3 align="left">Conecte comigo:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/luiz-reis-46a44b232/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/luiz-reis-46a44b232/" height="30" width="40" /></a>
-</p>## Sobre mim
+</p>
+
+## Sobre mim
 
 - 🎓 Estudando Sistemas de Informação no CEFET.
 - 🌱 Aprendendo mais sobre Microsserviços.
