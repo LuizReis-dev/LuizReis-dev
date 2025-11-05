@@ -1,6 +1,6 @@
 ## Olá, meu nome é Luiz Reis!
 
-Olá! Sou desenvolvedor backend com foco em Java e Spring Framework. Tenho experiência na construção de APIs RESTful escaláveis, microsserviços, mensageria com RabbitMQ e integração com sistemas externos. Sou entusiasta de boas práticas, testes automatizados e soluções com alta performance.
+Olá! Sou desenvolvedor backend com foco em Java/Spring Framework e TypeScript/Node. Tenho experiência na construção de APIs RESTful escaláveis, microsserviços, mensageria com RabbitMQ e integração com sistemas externos. Sou entusiasta de boas práticas, testes automatizados e soluções com alta performance.
 
 
 <h3 align="left">Conecte comigo:</h3>
