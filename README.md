@@ -11,7 +11,7 @@ Olá! Sou desenvolvedor backend com foco em Java e Spring Framework. Tenho exper
 ## Sobre mim
 
 - 🎓 Estudando Sistemas de Informação no CEFET.
-- 🌱 Aprendendo mais sobre Microsserviços.
+- 🌱 Aprendendo mais sobre Microsserviços e Arquitetura de Software.
 
 ## Minhas Skills
 
